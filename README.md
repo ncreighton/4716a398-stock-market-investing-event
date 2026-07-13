@@ -1,2 +1,34 @@
-# 4716a398-stock-market-investing-event
-The fastest way to have 24/7 automated responses without touching a server. No setup fees. No learning curve.  Multi-server support with per-server configuration and permission levels. Easy setup: invite → configure → active in under 10 minutes.  ## What's Included  - Stock Market &amp; Investing Event Scheduler And Rsvp Manager — fully configured and
+# Stock Market & Investing Event Scheduler and RSVP Manager Bot
+
+Create events, manage RSVPs, send reminders, and track attendance. Community events without external tools.
+
+## Setup
+1. Set `TELEGRAM_BOT_TOKEN` in `.env`
+2. `pip install -r requirements.txt`
+3. `python main.py`
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic commands | Yes | Yes |
+| Standard responses | Yes | Yes |
+| Community access | Yes | Yes |
+| Custom commands | - | Yes |
+| Analytics dashboard | - | Yes |
+| Priority processing | - | Yes |
+| API webhooks | - | Yes |
+| Unlimited servers | - | Yes |
+| White-label branding | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/7sY28r5iT3o8cVW6fycZK3T)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/7sY28r5iT3o8cVW6fycZK3T)
+
